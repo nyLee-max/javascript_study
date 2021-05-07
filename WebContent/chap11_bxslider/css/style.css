@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	list-style: none;
+}
+
+#gallery_wrap{
+	margin: 0 auto;
+	width: 450px;
+}
+
+#gallery_wrap.bx-wrapper{
+	margin-bottom: 20px;
+}
+
+.slider-paper{
+	text-align: center;
+}
+
+.slider-paper li{
+	display: inline;
+}
+
+

@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body{
+	height: 10000px;
+	width: 5000px;
+}
+#wrap{
+	position:fixed;
+	left:10px;
+	top:10px;
+}
